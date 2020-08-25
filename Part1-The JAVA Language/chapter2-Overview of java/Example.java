@@ -7,3 +7,10 @@ class Example{
 		System.out.print("Hello Java world");
 	}
 }	
+
+
+/*output is
+
+Hello Java world
+
+*/

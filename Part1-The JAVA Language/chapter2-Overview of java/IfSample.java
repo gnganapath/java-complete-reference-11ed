@@ -18,3 +18,13 @@ public class IfSample {
 	}
 
 }
+
+
+/*output is:
+
+
+X is < Y =>1020
+X is = to Y =>2020
+X is > Y =>6020
+
+*/

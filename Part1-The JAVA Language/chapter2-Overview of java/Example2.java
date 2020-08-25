@@ -13,3 +13,12 @@ public class Example2 {
 		System.out.println("number assing:"+num);
 		}
 }
+
+
+/*output is :
+
+number is :200
+num opration:400
+number assing:300
+
+*/
